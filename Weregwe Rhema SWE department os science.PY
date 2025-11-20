@@ -3,6 +3,7 @@
 for people in Guest:
     print(f"{people} you have been invited to my party")
 '''
+#exersise 3-5
 
 Guest=['Rhema','Britney','Angel','Tracy']
 for people in Guest:
@@ -58,4 +59,5 @@ print(Places)
 #sing sort() to change the list to reverse alphabeticll order perminently
 Places.sort(reverse=True)
 print("\nList after sort(reverse=True):")
+
 print(Places)
